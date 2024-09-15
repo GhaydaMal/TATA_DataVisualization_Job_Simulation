@@ -1,4 +1,4 @@
-# TATA_DataVisualization_Job_Simulation
+# TATA Data Visualization Job Simulation
 ![Alt text](https://github.com/GhaydaMal/TATA_DataVisualization_Job_Simulation/blob/main/TATA_Logo.PNG)
 
 ## Revenue Power BI Dashboard 
